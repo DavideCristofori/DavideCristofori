@@ -17,7 +17,7 @@
 
 
 
-`rgb(255, 0, 0)` ### **Page still under construction**
+### Page still under construction
 
 
 **DavideCristofori/DavideCristofori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
